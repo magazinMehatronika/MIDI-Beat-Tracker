@@ -1,6 +1,6 @@
-![Image](assets/projekat1web.jpg)
-
 # Simple MIDI beat tracker
+
+![Image](assets/projekat1web.jpg)
 
 This is a simple M4 Express CAN-based MIDI beat tracker. It uses an Adafruit OLED display to show the beat, features three different display modes and uses the MIDI FeatherWing to receive start, stop and clock messages.
 
